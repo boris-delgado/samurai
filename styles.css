@@ -56,7 +56,7 @@ header {
   align-items: center;
   color: #f44b12;
   margin-right: 4%;
-  background: url(/Assets/images/main-picture.png) no-repeat 0px 150px;
+  background: url(Assets/images/main-picture.png) no-repeat 0px 150px;
   height: 90vh;
 }
 
@@ -126,19 +126,19 @@ footer {
 }
 
 #instagram {
-  background-image: url(/Assets/images/instagram.png);  
+  background-image: url(Assets/images/instagram.png);  
 }
 
 #linkedin {
-  background-image: url(/Assets/images/linkedin.png);  
+  background-image: url(Assets/images/linkedin.png);  
 }
 
 #mail {
-  background-image: url(/Assets/images/mail.png);  
+  background-image: url(Assets/images/mail.png);  
 }
 
 #twitter {
-  background-image: url(/Assets/images/twitter.png);
+  background-image: url(Assets/images/twitter.png);
 }
 
 .social-links {
