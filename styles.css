@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background: url(/Assets/images/component.png) -30px 30px; 
+  background: url(Assets/images/component.png) -30px 30px; 
   color: white;
   font-family: 'Cormorant', 'Times New Roman', Times, serif;     
 }
